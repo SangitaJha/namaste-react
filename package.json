@@ -1,0 +1,29 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is Namaste React by Sangita Jha",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SangitaJha/namaste-react.git"
+  },
+  "keywords": [],
+  "author": "Sangita Jha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SangitaJha/namaste-react/issues"
+  },
+  "homepage": "https://github.com/SangitaJha/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "dom": "^0.0.3",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
